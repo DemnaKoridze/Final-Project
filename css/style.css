@@ -44,26 +44,61 @@
 
 .p-1{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    font-size: 18px;
     color: blue;
-    margin-top: 15px;
+   
 }
 
 .p-2{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    font-size: 18px;
     color: rgb(255, 17, 0);
-    margin-top: 30px;
+   
 } 
 
 
 .image-2{
-  margin-top: 300px;
-  margin-left: 500px;
-  margin-bottom: 500px;
-  margin-right: 500px;
+  margin-top: 150px;
+  margin-left: 250px;
+  margin-bottom: 250px;
+  margin-right: 250px;
+  background-image: url(../images/red.jpg);
 }
 
 .cont-1{
     margin-top: 50px;
+}
+
+.text-relat{
+    font-size: 25px;
+    font-family: 'BPG Mikheil Stefane';
+    color: rgb(228, 137, 19);
+}
+
+
+.chven-1{
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+.chven-2{
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+
+.a-5{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    color: rgb(89, 0, 255);
+}
+
+.a-6{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    color: rgb(89, 0, 255);
+}
+
+
+.image-5{
+    width: 600px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 100px;
 }
