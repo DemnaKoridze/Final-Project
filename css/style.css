@@ -24,8 +24,8 @@
 .but{
     width: 80px;
     height: 100px;
-    background-color: black;
-    color: blanchedalmond;
+    background-color: rgb(255, 208, 0);
+    color: rgb(5, 4, 1);
     border-radius: 80px;
     margin-top: 20px;
 }
@@ -44,13 +44,13 @@
 
 .p-1{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    color: blue;
+    color: rgb(3, 3, 7);
    
 }
 
 .p-2{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    color: rgb(255, 17, 0);
+    color: rgb(7, 4, 3);
    
 } 
 
@@ -77,22 +77,28 @@
 .chven-1{
     font-size: 25px;
     margin-top: 50px;
+    margin-left: 10px;
 }
 
 .chven-2{
     font-size: 25px;
-    margin-top: 50px;
+    margin-top: 75px;
+    margin-left: 10px;
 }
 
 
 .a-5{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    color: rgb(89, 0, 255);
+    color: rgb(115, 114, 117);
+    margin-left: 10px;
+    margin-top: 5px;
 }
 
 .a-6{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    color: rgb(89, 0, 255);
+    color: rgb(115, 114, 117);
+    margin-left: 10px;
+    margin-top: 8px;
 }
 
 
@@ -102,3 +108,43 @@
     margin-top: 100px;
     margin-left: 100px;
 }
+
+.chven{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    font-size: 25px;
+    color: rgb(7, 4, 4);
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.chven-4{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    font-size: 25px;
+    color: rgb(44, 34, 34);
+    margin-top: 150px;
+    margin-left: 10px;
+}
+
+
+.deliver-1{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 70px;
+    color: rgb(10, 8, 5);
+    
+}
+
+
+.glovo{
+    font-size: 35px;
+    color: rgb(99, 168, 146);
+    background-color: rgb(255, 208, 0);
+}
+
+.glovo-2{
+    display: flex;
+    width: 1350px;
+    height: 700px;
+}
+
+
