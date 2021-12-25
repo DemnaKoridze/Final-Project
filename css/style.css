@@ -1,6 +1,9 @@
+/*ქართული ფონტი რომელითაც ქართულ ტექსქებს ვწერ*/
 .geo-font{
     font-family: "BPG Mikheil Stefane", sans-serif;
 }
+
+
 
 .header1{
     display: flex;
@@ -20,7 +23,7 @@
     margin-left: 25px;
 }
 
-
+/* მიტანის სერვისის ღილაკს ვანიჭებ ზომას ფერს და ზომას*/
 .but{
     width: 80px;
     height: 100px;
@@ -54,75 +57,84 @@
    
 } 
 
+.about-1{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    color: whitesmoke;
+    font-size: 18px;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.about-2{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    color: whitesmoke;
+    font-size: 18px;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.about-3{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    color: whitesmoke;
+    font-size: 18px;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.about-4{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    color: whitesmoke;
+     font-size: 18px;
+     margin-top: 8px;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
 
 .image-2{
-  margin-top: 150px;
-  margin-left: 250px;
-  margin-bottom: 250px;
-  margin-right: 250px;
+  margin-top:90px;
+  width: 500px;
+  height: 410px;
   background-image: url(../images/red.jpg);
 }
 
 .cont-1{
-    margin-top: 50px;
+    margin-top: 15px;
 }
 
 .text-relat{
     font-size: 25px;
     font-family: 'BPG Mikheil Stefane';
-    color: rgb(228, 137, 19);
+    color: whitesmoke;
 }
 
 
-.chven-1{
-    font-size: 25px;
-    margin-top: 50px;
-    margin-left: 10px;
-}
-
-.chven-2{
-    font-size: 25px;
-    margin-top: 75px;
-    margin-left: 10px;
-}
 
 
 .a-5{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    color: rgb(115, 114, 117);
+    color: whitesmoke;
     margin-left: 10px;
     margin-top: 5px;
 }
 
 .a-6{
     font-family: "BPG Mikheil Stefane", sans-serif;
-    color: rgb(115, 114, 117);
+    color:whitesmoke;
     margin-left: 10px;
     margin-top: 8px;
 }
 
 
-.image-5{
-    width: 600px;
-    height: 300px;
-    margin-top: 100px;
-    margin-left: 100px;
-}
-
-.chven{
-    font-family: "BPG Mikheil Stefane", sans-serif;
-    font-size: 25px;
-    color: rgb(7, 4, 4);
-    margin-top: 25px;
-    margin-left: 10px;
-}
-
-.chven-4{
-    font-family: "BPG Mikheil Stefane", sans-serif;
-    font-size: 25px;
-    color: rgb(44, 34, 34);
-    margin-top: 150px;
-    margin-left: 10px;
+.image-3{
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
 }
 
 
@@ -134,17 +146,107 @@
     
 }
 
-
+/*მიტანის სერვისის გვერდზე სათაურს ვანიჭებ ფერს და ზომას*/
 .glovo{
     font-size: 35px;
     color: rgb(99, 168, 146);
     background-color: rgb(255, 208, 0);
+
 }
 
 .glovo-2{
     display: flex;
-    width: 1350px;
-    height: 700px;
+    width: 1354px;
+    height: 604px;
+    margin-top: 10px;
+    
+}
+
+/*ამ კოდით მთლიან ბექგრაუნდს ვაფერადებ ვიზუალურად სასიამოვნო რომ იყოს*/
+.backcolor-1{
+    background-color: rgb(95, 41, 4);
+}
+
+.backcolor-2{
+    background-color: rgb(95, 41, 4);
+}
+
+.hot-1{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+}
+
+.li-1{
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.cold-2{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.li-2{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+/*კერძების მენიუს გვერდზე ქართული კერძების სურათს ვანიჭებ ზომას*/
+.men-1{
+    width: 700px;
+    height: 400px;
+    margin-left: 648px;
 }
 
 
+.lari{
+    color: seagreen;
+}
+/*გასართობის ღონისძიებების გვერდს ფონტს ვანიჭებ*/
+.gartoba-5{
+    background-color: rgb(95, 41, 4);
+}
+
+.image-5{
+    width: 800px;
+    height: 380px;
+    padding-top: 5px;
+}
+/*საავტორო უფლებები*/
+.rights{
+    color: rgb(22, 0, 0);
+    margin-left: 400px;
+    padding-top: 1px;
+    
+    
+}
+
+.map-15{
+    background-color:rgb(79, 151, 79)
+}
+
+/* რესტორნის მისამართის ტექსტის ფონტი და ზომა*/
+.map-font-1{
+    font-family: "BPG Mikheil Stefane", sans-serif;
+    font-size: 18px;
+    color:black;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.li-20{
+    margin-top: 5px;
+    margin-left: 15px;
+    color:whitesmoke;
+}
+
+.map-size{
+    width: 650px;
+    height: 490px;
+    margin-top: 5px;
+}
+
+.glovo-back{
+   background-color: rgb(255, 208, 0); 
+}
