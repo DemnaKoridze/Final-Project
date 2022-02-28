@@ -26,11 +26,16 @@ body{
 .but-1{
     width: 80px;
     height: 100px;
-    background-color:aliceblue;
+    background-color: transparent;
     color: blue;
-    border-color: black;
+    border-color: antiquewhite; 
     border-radius: px;
     margin-top: 20px;
+    transition: all 2s ease-in-out;
+}
+
+.but-1:hover{
+    transform: rotate(360deg);
 }
 
 .logo-1{
