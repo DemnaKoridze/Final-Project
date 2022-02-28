@@ -26,8 +26,9 @@ body{
 .but-1{
     width: 80px;
     height: 100px;
-    background-color: rgb(255, 208, 0);
-    color: rgb(5, 4, 1);
+    background-color:aliceblue;
+    color: blue;
+    border-color: black;
     border-radius: px;
     margin-top: 20px;
 }
@@ -49,3 +50,4 @@ body{
 .footer-cont{
     margin-bottom: 2px;
 }
+
